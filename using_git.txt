@@ -4,3 +4,7 @@ git commit -m "N'th safe point"
 //check the safe points 
 git log
 
+//add into commit local server
+git add "file name" 
+//or
+git add .
