@@ -5,6 +5,10 @@ git commit -m "N'th safe point"
 git log
 
 //add into commit local server
-git add "file name" 
+git add "file name"
 //or
 git add .
+
+ abc xyz
+//to push everything into resposity 
+git push
