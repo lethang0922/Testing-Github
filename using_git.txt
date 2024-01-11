@@ -1,0 +1,6 @@
+//setting up a safe point
+git commit -m "N'th safe point"
+
+//check the safe points 
+git log
+
